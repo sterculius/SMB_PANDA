@@ -13,7 +13,7 @@ verry fast random smb target discovery (no input needed, just run and discover t
       ..........................................$$.|..............................................
       ..........................................\__|..............................................
 
-the fastest way to find eternalblue targets on kali linux
+the fastest way to find eternalblue targets on kali linux (or technicaly anny debian ditro)
 
 (probably gonna have a shit tone of bugs and problems cause it took me less than an hour to make)
 
@@ -24,6 +24,8 @@ uses multiple other github tools
 
 =========================requirements============================
 
+
+!!!!!!!if you want to keap your current sources.list file than use manual instalation!!!!!!!
 
 !!!!!!!!!!!!!!!!!!!!!!!!!just run the setup.sh and it will install everything you need!!!!!!!!!!!!!!!!!!!!!!!
       
@@ -66,5 +68,9 @@ then it saves the output as a .sh file
 then it runs the .sh file whitch will scan those ip addresses to se if it has a vulnerable version of smb
 
 then it will tell you what is fulnerable and what has a safe version of smb
+
+( this was made for the porposes of educating the public how dangerous smb/"server-message-block" can be when improperly configured. DO NOT USE THIS FOR ILLIGAL PORPOSES. I AM NOT RESPONSEABLE iF YOU USE THIS IMPROPERLY !!!!!)
+
+(i know what some of you are thinking about doing with this , PLEASE PLEASE PLEASE DO NOT TURN THIS INTO A WORM, i created this to help people and i already have enough stuff on my mind, you can use your powers to do good in the world) 
 
 (if you dont like somthing or find a bug. edit it your godam self or delete it)
