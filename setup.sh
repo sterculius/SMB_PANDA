@@ -1,3 +1,4 @@
+mkdir dep
 rm /etc/apt/sources.list
 cp dep/sources.list /etc/apt/
 apt update
