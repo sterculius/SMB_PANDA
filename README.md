@@ -71,6 +71,6 @@ then it will tell you what is fulnerable and what has a safe version of smb
 
 ( this was made for the porposes of educating the public how dangerous smb/"server-message-block" can be when improperly configured. DO NOT USE THIS FOR ILLIGAL PORPOSES. I AM NOT RESPONSEABLE iF YOU USE THIS IMPROPERLY !!!!!)
 
-(i know what some of you are thinking about doing with this , PLEASE PLEASE PLEASE DO NOT TURN THIS INTO A WORM, i created this to help people and i already have enough stuff on my mind, you can use your powers to 1 = (do good in the world (dosent meen defacing shit with your goddam popoganda)) 2 = (mess with people in a non harmfull way) 3 = (teach evil people a lesson in a semi-nonharmfull way) 4 = (make money off assholes and evil people in a verry non harmfull way) 5 = (influence people in a nonharmfull way)
+(i know what some of you are thinking about doing with this , PLEASE PLEASE PLEASE DO NOT TURN THIS INTO A WORM, i created this to help people and i already have enough stuff on my mind, you can use your powers to do 1 2 3 4 or 5 (1 = (do good in the world (dosent meen defacing shit with your goddam popoganda)) 2 = (mess with people in a non harmfull way) 3 = (teach evil people a lesson in a semi-nonharmfull way) 4 = (make money off assholes and evil people in a verry non harmfull way) 5 = (influence people in a nonharmfull way)))
 
 (if you dont like somthing or find a bug. edit it your godam self or delete it)
