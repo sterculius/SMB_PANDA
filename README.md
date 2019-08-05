@@ -15,7 +15,6 @@ verry fast random smb target discovery (no input needed, just run and discover t
 
 the fastest way to find eternalblue targets on kali linux (or technicaly anny debian ditro)
 
-(probably gonna have a shit tone of bugs and problems cause it took me less than an hour to make)
 
 run it with python and it automaticly generates a random range to scan with masscan
 once it runs masscan it uses a smb exploit tester on al the ip addreses that have smb open
