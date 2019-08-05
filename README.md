@@ -1,6 +1,9 @@
 # SMB_PANDA
 verry fast random smb target discovery (no input needed, just run and discover targets)
 
+(proof of concept, dont actualy use this thing, and if you do, do not attack any of the targets you find)
+(be very carefull with this as it is extreamly powerfull and dangerous(im already having second thoughts about uploading this))
+
       ...$$$$$$\................$$$$$$$\............................................$$\...........    
       ..$$..__$$\...............$$..__$$\...........................................$$.|..........
       ..$$./..\__|$$$$$$\$$$$\..$$.|..$$.|.......$$$$$$\...$$$$$$\..$$$$$$$\...$$$$$$$.|.$$$$$$\..
@@ -49,10 +52,8 @@ manual instalation ( optional )
        'apt install golang'
 
 =============================how to use it=================================
+(dont use it unless you want to moddify it to scan your own network)
 
-python main.py
-
-then sit back relax and watch the targets roll in
 
 =============================how it works================================
 
